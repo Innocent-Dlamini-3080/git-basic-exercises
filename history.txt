@@ -1,0 +1,907 @@
+    1  ls
+    2  git
+    3  apt install git
+    4  ifconfig
+    5  network
+    6  ip
+    7  man ip
+    8  clear
+    9  ls
+   10  login
+   11  sudo su
+   12  SUDO SU
+   13  sudo su
+   14  cat /boot/grub/
+   15  cd /
+   16  ls
+   17  cd boot/grub
+   18  ls
+   19  cat grub.conf
+   20  ls -al
+   21  xat grub.cfg
+   22  cat grub.cfg
+   23  clear
+   24  cd
+   25  ls
+   26  pwd
+   27  ls
+   28  pwd
+   29  run
+   30  cd
+   31  ls
+   32  cd documents
+   33  cd Documents
+   34  ls
+   35  cd ../
+   36  ls
+   37  services
+   38  help
+   39  % sudo snap install vlc
+   40  sudo snap install vlc
+   41  mkdir Test
+   42  whatis nano
+   43  ls
+   44  pwd
+   45  mvdir Test > Desktop
+   46  mv Test > Desktop
+   47  mv Test Desktop
+   48  ls
+   49  cat Desktop
+   50  ls Desktop
+   51  ls -h  Desktop
+   52  cd Desktop
+   53  ls
+   54  cd Test
+   55  nano Test.txt
+   56  echo "This is the end" > Text.txt
+   57  cat Text.txt
+   58  clear
+   59  ls
+   60  ls -al
+   61  cd ../
+   62  whatis touch
+   63  touch text.sh
+   64  cat /Test/Text.txt > text.sh
+   65  ls /Test
+   66  ls
+   67  ls Test
+   68  cat Test/Text.txt > text.sh
+   69  cat text.sh
+   70  ls -alh
+   71  whatis chmod
+   72  ./test.sh
+   73  ./text.sh
+   74  chmod u=rwx text.sh
+   75  ls -alh
+   76  ./text.sh
+   77  ./ text.sh
+   78  chmod ugo=rwx text.sh
+   79  ./text.sh
+   80  whatis sh
+   81  whatis ./
+   82  ./text
+   83  ./text.sh
+   84  clear
+   85  sudo snap install intellij-idea-ultimate --classic
+   86  sudo snap install pycharm-community --classic
+   87  python
+   88  python3
+   89  python --version
+   90  python3 --version
+   91  ls /usr/bin/python*
+   92  python
+   93  python3
+   94  exit
+   95  close
+   96  nano/home/sibusiso/.bashrc
+   97  nano /home/sibusiso/.bashrc
+   98  main.py
+   99  sudo snap install intellij-idea-community --classic
+  100  ls
+  101  cd  A-Reece-Jay-Jody-Blue-Tape-Heaven-Can-Wait-The-Narrow-Door-Vol-1
+  102  ls
+  103  ./ A-Reece-Jay-Jody-Blue-Tape-automatiC.mp3
+  104  ./A-Reece-Jay-Jody-Blue-Tape-automatiC.mp3
+  105  cd
+  106  ls
+  107  cd Desktop
+  108  ls
+  109  cd /Downloads
+  110  cd /Downloads
+  111  o;kdfdkjoikkjsl;l;d
+  112  ls
+  113  mr
+  114  kljdkljkd.skld
+  115  uhdjsld;okrs
+  116  jjksdmlzmfs
+  117  xsdcklsdm,l;vmldz
+  118  rpm -V samba3
+  119  rpm -V samba
+  120  cd Desktop
+  121  cd
+  122  cd Downlods
+  123  clear
+  124  ls
+  125  cd Downlods
+  126  cd Downloads
+  127  shutdown -r now
+  128  cd
+  129  cd Downloads
+  130  ls
+  131  dpkg -L jdk-17_linux-x64_bin.deb
+  132  dpkg -p jdk-17_linux-x64_bin.deb
+  133  ls
+  134  rpm -ivh jdk-8uversion-linux-x64.rpm
+  135  cd
+  136  sudo su
+  137  ls
+  138  cd Downloads
+  139  ls
+  140  cleaR
+  141  clear
+  142  sudo update-ulternative --install /usr/bin/java java /usr/lib/jvm/jdk-17_linux-x64_bin.deb/bin/java 1
+  143  sudo update-ulternatives --install /usr/bin/java java /usr/lib/jvm/jdk-17_linux-x64_bin.deb/bin/java 1
+  144  sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-17_linux-x64_bin.deb/bin/java 1
+  145  cd /usr/lib
+  146  ls
+  147  cd jvm
+  148  ls
+  149  sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-17/bin/java 1
+  150  java --version
+  151  cd /usr
+  152  ls
+  153  cd lib/jvm
+  154  ls
+  155  cd jvm
+  156  cd jdk-17
+  157  ls
+  158  ls bin
+  159  whatis jstack
+  160  whatis man
+  161  whatis jdk
+  162  wahtis lib
+  163  whatis lib'
+  164  clear
+  165  ls
+  166  cd /home
+  167  cd /Desktop
+  168  ls 
+  169  cd sibusiso
+  170  ls
+  171  cd Desktop
+  172  python3
+  173  ls
+  174  play
+  175  whatis sox
+  176  whatis start
+  177  sudo apt install play
+  178  whatis play
+  179  lib 
+  180  yum
+  181  rpm
+  182  rpm -L
+  183  rpm -Lal
+  184  rpm -q
+  185  rpm
+  186  ls
+  187  clear
+  188  open firefox
+  189  df
+  190  whatis df
+  191  whatis snap
+  192  man snap
+  193  clear
+  194  ls -A
+  195  ls
+  196  file 
+  197  file text.sh
+  198  less file text.sh
+  199  nano text.sh
+  200  ls
+  201  clear
+  202  ls
+  203  clear
+  204  whatis x
+  205  man x
+  206  watis is
+  207  watis if
+  208  whatis ip
+  209  man ip
+  210  ip -V
+  211  grep ip
+  212  whatis grp
+  213  whatis grep
+  214  man grep
+  215  clear
+  216  ls
+  217  cd
+  218  clear
+  219  ls
+  220  cd snap
+  221  ls
+  222  ls -br
+  223  ls -bralh
+  224  which .
+  225  which vlc
+  226  ls
+  227  which snap
+  228  cd /
+  229  ls
+  230  ls -h
+  231  ls -br
+  232  whatis temp
+  233  which swapfile
+  234  cat swapfile
+  235  sudo cat swapfile
+  236  stop
+  237  exit
+  238  clear
+  239  cd/history
+  240  cd/history*
+  241  cd /history*
+  242  ls
+  243  ls lib
+  244  ls etc
+  245  cd
+  246  ls
+  247  cd home
+  248  cd /
+  249  ls
+  250  ls home
+  251  ls home/sibusiso
+  252  ls bin
+  253  clear
+  254  la
+  255  ls etc
+  256  clear
+  257  ls
+  258  exit
+  259  c;pose
+  260  apt-get install YUM
+  261  sudo apt-get install YUM
+  262  ifconf
+  263  ipconfg
+  264  clear
+  265  close
+  266  exit
+  267  stop
+  268  ser
+  269  -v
+  270  telinit
+  271  info
+  272  clear
+  273  ls
+  274  ./Money_Heist_S01E01_kissTVSeries.com.mp4
+  275  vlc Money_Heist_S01E01_kissTVSeries.com.mp4
+  276  vlc
+  277  status vlc
+  278  statfs
+  279  sudo apt install gocryptfs
+  280  sudo snap install clementine
+  281  ls
+  282  dpkg --install audacity-linux-3.1.2-x86_64.AppImage
+  283  sudo dpkg --install audacity-linux-3.1.2-x86_64.AppImage
+  284  apt-get install audacity
+  285  sudo apt-get install audacity
+  286  ls
+  287  rm audacity-linux-3.1.2-x86_64.AppImage 
+  288  ls
+  289  rm opt usr 
+  290  rmdir opt usr 
+  291  exit
+  292  snap store
+  293  sudo snap install notepad++
+  294  sudo snap install notepadplus
+  295  sudo snap install notepad
+  296  sudo snap install supertuxkart
+  297  sudo snap install kturtle
+  298  sudo snap install brave
+  299  show services
+  300  sudo apt install mailutils-mh
+  301  pie
+  302  pipe
+  303  cd
+  304  ls
+  305  ls music
+  306  ls Music
+  307  cd Music/ A-Reece-Jay-Jody-Blue-Tape-Heaven-Can-Wait-The-Narrow-Door-Vol-1
+  308  cd Music/A-Reece-Jay-Jody-Blue-Tape-Heaven-Can-Wait-The-Narrow-Door-Vol-1
+  309  ls
+  310  cd ../
+  311  vlc A-Reece-Jay-Jody-Blue-Tape-Heaven-Can-Wait-The-Narrow-Door-Vol-1
+  312  tail
+  313  ifconfig
+  314  sudo apt install net-tools
+  315  ifcnfig
+  316  ifconfig
+  317  clear
+  318  lsmod
+  319  man telinit
+  320  teinit 6
+  321  telinit 6
+  322  sudo snap install snapstore
+  323  sudo snap install snaps-tore
+  324  sudo snap install snap-store
+  325  map snapd
+  326  man anPD
+  327  man snapd
+  328  apt-get install snapd
+  329  snap
+  330  snap-store
+  331  sudo snap install google-play-music-desktop-player
+  332  ls 
+  333  ls
+  334  ls -alh
+  335  cd ../
+  336  ls
+  337  ls Desltop
+  338  ls Desktop
+  339  ls Downloads
+  340  fsdisk
+  341  fdisk
+  342  fstab
+  343  ls
+  344  cd /
+  345  fstab
+  346  ls
+  347  cd bin
+  348  ls
+  349  ls /home/sibusiso/.bashrc
+  350  cd /home/sibusiso/.bashrc
+  351  cat
+  352  clear
+  353  cat /home/sibusiso/.bashrc
+  354  man alias
+  355  ls 
+  356  ls /downloads
+  357  ls /Downloads
+  358  cd /home
+  359  ls
+  360  cd sibusiso/Downloads
+  361  ls
+  362  vlc -L The_Unforgivable_2021_Full_KimoiTV.com.mp4.part
+  363  stop vlc
+  364  ls
+  365  Document_Viewer UI Design.pdf
+  366  DocumentViewer UI Design.pdf
+  367  cd /
+  368  ls'
+  369  ls
+  370  clear
+  371  ls
+  372  bin
+  373  ls bin
+  374  clear : ls 
+  375  ls
+  376  ls cdrom
+  377  ls etc
+  378  ls dpkg
+  379  ls etc
+  380  cd etc
+  381  ls
+  382  ls dpkg
+  383  cat dpkg.cfg
+  384  vim dpkg.cfg
+  385  libreoffice /home/sibusiso/Downloads/'UI Design'
+  386  ls /home/sibusiso/Downloads
+  387  libreoffice /home/sibusiso/Downloads/'UI Design.pdf'
+  388  libreoffice
+  389  'Text editor'
+  390  cd
+  391  ls
+  392  cd
+  393  ls
+  394  ls ~
+  395  ls ~/usr
+  396  cd /
+  397  ls
+  398  ls ~usr
+  399  ls ~ usr
+  400  ls -lt
+  401  clear
+  402  ls -lt --reverse
+  403  clear
+  404  ls -ltr
+  405  ls -lt
+  406  ls -ltS
+  407  cd /Documents
+  408  ls
+  409  cd ./Documents
+  410  cd ../Documents
+  411  ls
+  412  javac hello.java
+  413  cd ../Downloads
+  414  ls
+  415  /home/sibusiso/.bashrc
+  416  cd /home/sibusiso/.bashrc
+  417  cd /home/sibusiso
+  418  ls
+  419  ls -al
+  420  info .android 
+  421  whatis .android
+  422  cat .python_history
+  423  clear
+  424  ls
+  425  cd /
+  426  ls
+  427  cat tmp
+  428  ls tmp
+  429  ls var
+  430  cd var/backups
+  431  ls
+  432  whatis tar
+  433  man tar
+  434  clear
+  435  exit
+  436  man telinit
+  437  telinit 0
+  438  python
+  439  python3
+  440  apt-get install git
+  441  sudo apt-get install git
+  442  ls 
+  443  java
+  444  ls clear
+  445  clrear
+  446  clear
+  447  ls -al
+  448  ifconf
+  449  sfconf
+  450  ifconfig
+  451  ls
+  452  cd'
+  453  cd
+  454  qqc
+  455  CLER
+  456  whatis cd'
+  457  clear
+  458  cd ../home
+  459  cd ../Downloads
+  460  ls
+  461  sudo apt-get install Utube
+  462  sudo apt-get remove brave
+  463  cd /
+  464  sudo apt-get remove brave
+  465  sudo apt-get remove Brave
+  466  find brave
+  467  find Bave
+  468  find Brave
+  469  find Brave*
+  470  ls
+  471  cd etc
+  472  ls
+  473  cd ../
+  474  ls
+  475  ls bin
+  476  cd bin/browse
+  477  ls
+  478  ls var
+  479  ls etc
+  480  cd etc
+  481  ls
+  482  cd
+  483  ls
+  484  cd
+  485  ls /
+  486  cd /
+  487  ls
+  488  ls dev
+  489  cd
+  490  ls
+  491  cd /
+  492  ls
+  493  cd etc
+  494  ls
+  495  cat bash.bashrc
+  496  cd ../home
+  497  pwd -al
+  498  pwd -LP
+  499  pwd
+  500  cd /home
+  501  ls
+  502  cd sibusio
+  503  cd sibusiso
+  504  ls
+  505  ls -al
+  506  cat .bashrc
+  507  java
+  508  java jan.java
+  509  cd 
+  510  ls
+  511  cd Documents
+  512  ls
+  513  java hello.java
+  514  cat hello.java
+  515  sudo apt remove --purge brave-browser
+  516  cd ~
+  517  ls
+  518  ls -al
+  519  ls .config
+  520  ls -al .config
+  521  clear
+  522  ls
+  523  ls -a
+  524  ls -a local
+  525  ls -a .local
+  526  ls
+  527  cd
+  528  pwd
+  529  cd /
+  530  ls
+  531  ls -al
+  532  cd etc
+  533  ls
+  534  clear
+  535  ls
+  536  cd
+  537  ls
+  538  pwd
+  539  ls
+  540  ls -al
+  541  cd public
+  542  cd Public
+  543  ls
+  544  ls-a
+  545  ls -a
+  546  cd
+  547  ls
+  548  sudo apt remove brave
+  549  sudo apt remove brave-browser
+  550  sudo apt remove Brave-browser
+  551  apt-get install git
+  552  sudo apt-get install git
+  553  git
+  554  git -V
+  555  git -v
+  556  git --version
+  557  clear
+  558  ls
+  559  exit
+  560  telinit 0
+  561  git -v
+  562  git --version
+  563  sudo apt install git-all
+  564  cd
+  565  /.gitconfig
+  566  ls
+  567  ls -a
+  568  ls -a .config
+  569  cd /
+  570  ls
+  571  ls etc
+  572  ls -a etc
+  573  clear
+  574  ls
+  575  git config --list --show-origin
+  576  git config -a --list --show-origin
+  577  git config --list -a --show-origin
+  578  git
+  579  git --version
+  580  apt upgrade git
+  581  yum --version
+  582  dpkg
+  583  dpkg --yet-to-unpack
+  584  ls
+  585  pwd
+  586  cd home
+  587  cd sibusiso/Downloads
+  588  dpkg --yet-to-unpack
+  589  apt-get upgrade git
+  590  apt-get update git
+  591  apt-get update 
+  592  sudo apt-get upgrade git
+  593  ls
+  594  git --version
+  595  git add
+  596  gedit What-might-get-in-my-way.md
+  597  ls
+  598  gedit 6.My_routine
+  599  gedit 6._My_routine.md
+  600  ls
+  601  gedit 8._Future.md 
+  602  ls
+  603  gedit 9._My-Future-Scarry-parts
+  604  ls
+  605  gedit 10._Current-commitments.md
+  606  ls
+  607  gedit '11.The importance of doing my own work.md'
+  608  ls
+  609  exit
+  610  mkdir git-basic-exercises
+  611  ifconfig
+  612  telinit 3
+  613  man telinit
+  614  telinit 6
+  615  ls
+  616  cd git-basic-exercises
+  617  ls
+  618  git init
+  619  ls
+  620  ls -a
+  621  git status
+  622  touch README.md
+  623  git status
+  624  git log
+  625  git add README.md
+  626  git status
+  627  git commit -m "intial commit"
+  628  git config --global user.name Sibusiso
+  629  git config --global user.email tycoon3080@gmail.com
+  630  cd ../Desktop
+  631  ls
+  632  cd git-basic-exercises
+  633  ls
+  634  git status
+  635  git commit -m "initial commit"
+  636  clear
+  637  git log
+  638  gedit README.md
+  639  cat 
+  640  cat README.md
+  641  git status
+  642  git commit -m "second commit"
+  643  git add README.md
+  644  git status
+  645  git commit -m "second commit"
+  646  gedit README.md
+  647  git status
+  648  git add README.md
+  649  git commit -m "third commit"
+  650  git log
+  651  git checkout 858e3d1859fa97a63b217f6074dc8975fc96270f
+  652  cat README.md
+  653  git checkout main
+  654  git checkout master
+  655  git branch
+  656  git branch milkshake-flavours
+  657  git branch
+  658  git branch milkshake-flavours
+  659  git checkout milkshake-flavours
+  660  git branch
+  661  gedit milkshakes.md
+  662  git status
+  663  git add milkshakes.md
+  664  git commit -m milkshakes.md
+  665  git log
+  666  git --amend
+  667  git commit --amend
+  668  git log
+  669  git commit --amend
+  670  cat milkshake.md
+  671  ls
+  672  cat milkshakes.md
+  673  git log
+  674  git commit --amend
+  675  git log
+  676  git status
+  677  git checkout master
+  678  git branch history
+  679  history > history.txt
+  680  git log
+  681  git commit -m "added history"
+  682  git status
+  683  git add history.txt
+  684  git commit -m "added history"
+  685  git log
+  686  git reset HEAD history.txt
+  687  git log
+  688  git status
+  689  git branch
+  690  git checkout history
+  691  ls
+  692  git branch
+  693  git add history.txt
+  694  history > history.txt
+  695  ls
+  696  git add history.txt
+  697  git commit -m "added history"
+  698  git log
+  699  git checkout master
+  700  git log
+  701  git checkout history
+  702  gedit README.md
+  703  git status
+  704  git add README.md
+  705  git commit -m "random readme changes"
+  706  git checkout master 
+  707  git log
+  708  git checkout history
+  709  git log
+  710  git branch
+  711  git checkout milkshake-flavours
+  712  git log
+  713  ls
+  714  gedit README.md
+  715  git add README.md
+  716  git commit -m "random readme changes"
+  717  git checkout history
+  718  rm README.md
+  719  echo "booya" > README.md
+  720  git status
+  721  git add README.md
+  722  git commit -m "rewrote readme"
+  723  git log
+  724  git checkout master
+  725  ls
+  726  rm history.txt
+  727  ls
+  728  git log
+  729  telinit 0
+  730  ls
+  731  cd git-basic-exercises
+  732  ls
+  733  git branch
+  734  git status
+  735  git reset HEAD~1
+  736  git staus
+  737  git status
+  738  git log
+  739  git checkout history
+  740  git log
+  741  git reset HEAD~1
+  742  git status
+  743  git log
+  744  ls
+  745  git checkout master
+  746  ls
+  747  cat README.md
+  748  git log
+  749  git reset HEAD~1
+  750  git log
+  751  git status
+  752  git checkout master
+  753  ls
+  754  git checkout history
+  755  ls
+  756  git log
+  757  git status
+  758  git checkout milkshakes
+  759  git checkout milkshake
+  760  git branch
+  761  git checkout milkshake-flavours
+  762  pwd
+  763  ls
+  764  ggit status
+  765  git log
+  766  git status
+  767  git reset HEAD *
+  768  git status
+  769  ls
+  770  git log
+  771  git status
+  772  git diff
+  773  git checkout README.md
+  774  git status
+  775  git checkout 
+  776  git status
+  777  git checkout milkshake-flavours
+  778  ls
+  779  git log
+  780  git checkout history
+  781  ls
+  782  cat README.md
+  783  git log
+  784  rm README.md
+  785  ls
+  786  echo "booya" > README.md
+  787  ls
+  788  git status
+  789  git add README.md
+  790  git commit -m "rewrote readme"
+  791  git log
+  792  git checkout master
+  793  ls
+  794  clear
+  795  git log
+  796  git checkout milkshake-flavours
+  797  ls
+  798  git log
+  799  git checkout history
+  800  ls
+  801  git log
+  802  git checkout master
+  803  git merge milkshake-flavours
+  804  git log
+  805  git checkout history
+  806  git log
+  807  git branch
+  808  git merge master
+  809  git branch
+  810  git checkout master
+  811  git status
+  812  git statuls
+  813  ls
+  814  git add README.md
+  815  cat README.md
+  816  git status
+  817  git checkout master
+  818  git commit -m "merged main into history"
+  819  git checkout master
+  820  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  821  git branch -M main
+  822  git push -u origin main
+  823  pwd
+  824  git init
+  825  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  826  git branch -M main
+  827  git push -u origin main
+  828  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  829  git branch -M main
+  830  git branch
+  831  git checkout history
+  832  echo "# git-basic-exercises" >> README.md
+  833  git init
+  834  git add README.md
+  835  git commit -m "first commit"
+  836  git branch -M main
+  837  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  838  git push -u origin main
+  839  git config --global user.name Innocent-Dlamini-3080
+  840  git config --global user.email tycoon3080@gmail.com
+  841  git config -l
+  842  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  843  git branch -M main
+  844  git push -u origin main
+  845  ls
+  846  pwd
+  847  git push
+  848  git push -u origin main
+  849  clear
+  850  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  851  git branch -M main
+  852  git push -u origin main
+  853  cd git-basic-exersises
+  854  cd git-basic-exercises
+  855  ls
+  856  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  857  git branch -M main
+  858  git push -u origin main
+  859  git push
+  860  git remote add origin https://github.com/Innocent-Dlamini-3080/git-basic-exercises.git
+  861  git branch -M main
+  862  git push -u origin main
+  863  git push u- origin history
+  864  git checkout history
+  865  git branch
+  866  ls
+  867  cd
+  868  ls 
+  869  cd Desktop/git-basic-exercises
+  870  git branch
+  871  git --history
+  872  git status
+  873  git init
+  874  la
+  875  gedit README.md
+  876  git add README.md
+  877  git commit -m "initial commit"
+  878  ls
+  879  git status
+  880  git add README.md
+  881  ls
+  882  git status
+  883  gedit README.md
+  884  git add README.md
+  885  git commit -m "second commit"
+  886  gedit README.md
+  887  git add README.md
+  888  git commit -m "third commit"
+  889  git log
+  890  git chgeckout main
+  891  git branch
+  892  git branch milkshake-flavours
+  893  git branch
+  894  git chkeckout milkshake-flavours
+  895  git checkout milkshake-flavours
+  896  gedit milkshakes.md
+  897  git add milkshakes.md
+  898  gedit milkshakes.md
+  899  git add milkshakes.md
+  900  git commit -m "added initial flavours"
+  901  git status
+  902  git log
+  903  git checkout master
+  904  git branch history
+  905  git branch
+  906  git checkout history
+  907  history> history.txt
